@@ -5,7 +5,8 @@
     "pnpm": ">=10"
   },
   "scripts": {
-    "dev:cms": "vite admin"
+    "dev": "vite",
+    "build": "vite build"
   },
   "dependencies": {
     "@sveltia/cms": "^0.58.0"

@@ -4,6 +4,7 @@ package-lock.json
 
 # Production
 /build
+dist
 
 # Generated files
 .docusaurus
